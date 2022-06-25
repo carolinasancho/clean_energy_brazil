@@ -30,9 +30,9 @@ I related all the information by data in order to obtain the answer I was lookin
 
 The dashboards were developed in Tableau:
 
-https://public.tableau.com/app/profile/carolina.tavares.sancho.monteiro/viz/ProjectTableau_16495348115470/COVID19
+https://public.tableau.com/app/profile/carolina.tavares.sancho.monteiro/viz/Final_Project_R01/EnergiaLimpa?publish=yes
 
 
 
 ##  💻 Conclusion:
-Although the impact of the COVID 19 on brazilian job loss was huge, we have already managed to recover in terms of unemployment rate.
+Brazil'll is likely to drop the hydroeletric energy from 64% (nowadays) to 50% or less in 2031. Wind and Solar energy will share together more than 30% off the brazilian eletricity generation.
