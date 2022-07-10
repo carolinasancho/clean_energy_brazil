@@ -2,7 +2,7 @@
 
 <h1 align="center">Clean Energy - Predictions to 2031</h1>
 
-<p align="center"> Final Project at Ironhack Data Analysis Bootcamp :star: :star: :star:
+<p align="center"> Final Project at Ironhack Data Analysis Bootcamp :star: :star: :star: :star: :star:
 </h1>
 <a name="project-description"></a>
 
